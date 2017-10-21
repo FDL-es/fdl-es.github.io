@@ -22,7 +22,7 @@ Esta es una traducción no oficial de la Licencia de documentación Libre de GNU
 # Repositorio 
 
 
-### [https://github.com/FDL-es/FDL_es](https://github.com/FDL-es/FDL_es]
+###  [https://github.com/FDL-es/FDL_es](https://github.com/FDL-es/FDL_es)
 
 
 # FDL
